@@ -1,1 +1,1 @@
-# ML-Class
+# Python lesson
